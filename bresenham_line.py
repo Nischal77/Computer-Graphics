@@ -77,7 +77,7 @@ def bresenham_g(dx,dy,x0,y0):
         print(point)
 
 
-bresenham(600,700,100,100)
+bresenham(10,20,30,40)
 
 pygame.display.flip()
 
